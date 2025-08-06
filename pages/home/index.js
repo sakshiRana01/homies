@@ -1,6 +1,4 @@
-import Image from "next/image";
-import { HomePage } from "../components/homepage.js/homepage";
-
+import { HomePage } from "../../components/homepage/homepage";
  const HomeMainPage = (props) => {
   console.log("props", props);
   let propsData = props.propsData || {};
