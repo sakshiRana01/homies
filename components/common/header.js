@@ -214,7 +214,7 @@ export const Header = ({ headerData }) => {
     <HeaderWrapper>
       <div className="left-section">
         <h2 className="logo">
-          <a href="/">Homies</a>
+          <a >Homies</a>
         </h2>
 
         <div className="hamburger" onClick={toggleMenu}>
@@ -254,19 +254,19 @@ export const Header = ({ headerData }) => {
         <div className="search-bar">
           <input type="text" placeholder="Search..." />
           <span className="search-icon">
-            <a href="/">
+            <a >
               <CiSearch />
             </a>
           </span>
         </div>
 
         <span>
-          <a href="/">
+          <a >
             <FaRegHeart />
           </a>
         </span>
         <span>
-          <a href="/">
+          <a >
             <FiShoppingBag />
           </a>
         </span>
