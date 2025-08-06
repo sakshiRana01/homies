@@ -32,70 +32,70 @@ export const AllCategoryList=()=>{
 
         <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide>
        <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide>
           <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
          <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide>  
         <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
           <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
            <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
            <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
           <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>
         </SwiperSlide> 
            <SwiperSlide>
                <div className="category-card">
-                <img src="curtain-category.jpg" className="category-img"></img>
+                <img src="curtain-category.jpg" className="category-img" alt="product-image"></img>
                 <p className="arrow"><GoArrowDownRight /></p>
                 <span className="cat-heading">Curtains</span>
             </div>

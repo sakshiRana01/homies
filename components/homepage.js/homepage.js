@@ -284,7 +284,7 @@ export const HomePage = ({ propsData }) => {
                       <a className="shop-btn">Shop Now</a>
                     </div>
                     <div className="text" data-swiper-parallax="-100">
-                      <img src="/curtains.jpg"></img>
+                      <img src="/curtains.jpg" alt="curtain-img"></img>
                     </div>
                   </div>
                 </SwiperSlide>
