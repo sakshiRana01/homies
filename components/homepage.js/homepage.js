@@ -276,7 +276,7 @@ export const HomePage = ({ propsData }) => {
             ></div>
             {propsData.banner &&
               propsData?.banner.map((item, index) => (
-                <SwiperSlide className="title">
+                <SwiperSlide className="title" key={index}>
                   <div className="container hero-section">
                     <div className="subtitle" data-swiper-parallax="-200">
                       <h2 className="tagline">{item?.tagline}</h2>
